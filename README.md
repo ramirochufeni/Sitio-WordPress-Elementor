@@ -10,11 +10,12 @@ Sitio desarrollado en **WordPress local**, utilizando **Elementor** para la cons
 - Optimización básica de SEO y usabilidad
 
 ## 📸 Capturas
+
 ### Home
 ![Home](https://github.com/user-attachments/assets/f4dbf6cf-974c-4f7e-8f3f-6760372cc97e)
 
 ### Servicios
-![Servicios](https://github.com/user-attachments/assets/58c25b2e-6d5e-483f-affd-ffe11074af4f)
+![Servicios](https://github.com/user-attachments/assets/9a7b8400-e17c-431e-922c-22fa7a65d2ca)
 
 ### Contacto
 ![Contacto](https://github.com/user-attachments/assets/71ddb109-7683-4a2d-a09f-adbe52e0a5b7)
@@ -29,3 +30,4 @@ Sitio desarrollado en **WordPress local**, utilizando **Elementor** para la cons
 👉 [Ver en Google Drive](https://drive.google.com/file/d/1zfqVHf7Py1s8rAttk_YdmfU-ItRXoIC8/view?usp=sharing)
 
 ✍️ Desarrollado por **Ramiro Chufeni**
+
