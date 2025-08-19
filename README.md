@@ -3,7 +3,7 @@
 Sitio desarrollado en **WordPress local**, utilizando **Elementor** para la construcción visual y personalización del diseño.
 
 ## 🚀 Características
-- Diseño responsive adaptado a desktop y móvil
+- Diseño responsive adaptado a PC, Tablet y Celular
 - Estructura personalizada con Elementor
 - Secciones: Inicio, Servicios, Contacto
 - Plugins
