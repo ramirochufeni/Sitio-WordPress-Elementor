@@ -29,5 +29,8 @@ Sitio desarrollado en **WordPress local**, utilizando **Elementor** para la cons
 ## 🎥 Demo en video
 👉 [Ver en Google Drive](https://drive.google.com/file/d/1zfqVHf7Py1s8rAttk_YdmfU-ItRXoIC8/view?usp=sharing)
 
+### Certificado
+<img width="1309" height="851" alt="image" src="https://github.com/user-attachments/assets/5b004eea-6219-4800-8867-694eb2afae13" />
+
 ✍️ Desarrollado por **Ramiro Chufeni**
 
